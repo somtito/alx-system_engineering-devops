@@ -1,2 +1,2 @@
 #!/bin/bash
-find .-type f -type name "*.js" -
+find . -type f -type name "*.js" -
